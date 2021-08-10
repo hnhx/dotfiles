@@ -1,3 +1,5 @@
+![](https://i.imgur.com/pJTsBI1.png)
+
 I mainly made this repo for myself but feel free to use it.
 
 ### Things that you will need
